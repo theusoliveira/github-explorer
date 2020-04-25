@@ -1,4 +1,4 @@
-# Github Explorer
+# **Github Explorer**
 
 Interface built on ReactJS for listing repositories and open issues for each repository.
 
