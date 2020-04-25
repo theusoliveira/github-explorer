@@ -77,7 +77,7 @@ export const RepositoryInfo = styled.section`
 `;
 
 export const Issues = styled.div`
-  margin-top: 40px;
+  margin-top: 20px;
 
   a {
     background: #fff;
